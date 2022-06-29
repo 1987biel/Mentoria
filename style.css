@@ -1,0 +1,39 @@
+.pato {
+	width: 30px;
+	height: 30px;
+	
+}
+
+.divBuscar{
+  background-color:#E0EEEE;
+  border:solid 2px #5F9EA0;
+  border-radius:10px;
+  width:300px;
+  height:32px;
+}
+
+.textBuscar{
+  float:left;
+  background-color:transparent;
+  padding-left:5px;
+  font-size:18px;
+  border:none;
+  height:30px;
+  width:202px;
+}
+
+.btnBuscar{
+  border:none;
+  float:right;
+  height:32px;
+  border-radius:0 7px 7px 0;
+  width:90px;
+  font-weight:bold;
+  background:#5F9EA0;
+}
+
+
+.video {
+    width: 560px;
+    margin: 2em auto;
+ }
