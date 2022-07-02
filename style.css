@@ -21,7 +21,7 @@ border-radius:10px;
 
 header audio{
 padding: 10px;
-margin-right: 720px; 
+margin-right:600px; /*achei muito exagerado*/
 
 
 }
@@ -106,13 +106,9 @@ color: white;
 
 width:auto;	}
 
-.btnBuscar, .textBuscar, .pato, header input {
+.btnBuscar, .textBuscar, .pato {
 
-	padding-top: 10px;
-}
-
-iframe {
-	padding:40px;
+	padding-top: 5px;
 }
 
 
